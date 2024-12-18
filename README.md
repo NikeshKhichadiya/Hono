@@ -15,13 +15,13 @@ Aina is a fully functional e-commerce website specializing in selling women's cl
 ![Home Page](https://nikesh-khichadiya.web.app/static/media/aina_1.aa97755fbb16f0e6e4e6.png)
 
 ### Product Listing Page
-![Product Listing Page](assets/screenshots/product-listing.png)
+![Product Listing Page](https://nikesh-khichadiya.web.app/static/media/aina_3.4a1e3164492ed673e63b.png)
+
+### Product Detail Page
+![Product Detail Page](https://nikesh-khichadiya.web.app/static/media/aina_8.6e54cd4b31d3eaf0b98f.png)
 
 ### Shopping Cart Page
-![Shopping Cart Page](assets/screenshots/shopping-cart.png)
-
-### Checkout Page
-![Checkout Page](assets/screenshots/checkout.png)
+![Shopping Cart Page](https://nikesh-khichadiya.web.app/static/media/aina_10.1047d8bcb68cc949c19f.png)
 
 ### Built With
 
