@@ -9,6 +9,9 @@
 ## About The Project
 
 Aina is a fully functional e-commerce website specializing in selling women's clothing online. This project is a comprehensive implementation of an e-commerce platform developed using modern web technologies, including Angular, Node.js, Express, and MongoDB.
+
+The website provides features such as dynamic product listings, user authentication, a shopping cart, and a streamlined checkout process. It ensures a seamless and responsive experience for users while being scalable, maintainable, and visually appealing.
+
 ## Screenshots
 
 ### Home Page
